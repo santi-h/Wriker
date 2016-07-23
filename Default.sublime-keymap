@@ -1,0 +1,3 @@
+[
+  { "keys": ["super+shift+9"], "command": "open_wrike_task" }
+]
